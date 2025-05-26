@@ -6,7 +6,7 @@ import { getServer } from '../../helpers/axios_helper';
 import { getConsultaById, updateConsulta } from '../../services/ConsultaService';
 import { getClienteById, updateCliente } from '../../services/ClienteService';
 import { getMascotaById, updateMascota } from '../../services/MascotaService';
-import SaveIcon from '../../assets/images/SaveICon.png';
+import SaveIcon from '../../assets/images/SaveIcon.png';
 import '../../assets/styles/UserCard.css'
 import '../../assets/styles/CliCard.css'
 export function UserCard(props) {
